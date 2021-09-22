@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BCI preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MacBook Pro",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 5
+    },
+    {
+      "name": "Iphone 13",
+      "price": 20,
+      "id": 4
+    }
+  ]
+}
