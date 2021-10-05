@@ -1,0 +1,13 @@
+.side-nav {
+    background-color: #3F51B5;
+    width: 200px;
+
+}
+
+.side-nav a {
+    color: #FFF;
+}
+
+.side-nav i {
+    padding-right: 10px;
+}
