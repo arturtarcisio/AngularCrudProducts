@@ -19,6 +19,16 @@
       "name": "Iphone 13",
       "price": 20,
       "id": 4
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 5
+    },
+    {
+      "name": "Veio do form",
+      "price": "9.99",
+      "id": 6
     }
   ]
 }
