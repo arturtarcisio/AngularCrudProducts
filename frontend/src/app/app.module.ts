@@ -13,7 +13,8 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { HomeComponent } from './views/home/home.component';
-import { MatCardModule } from '@angular/material/card'
+import { MatCardModule } from '@angular/material/card';
+import { AppRoutingModule } from './app-routing.module'
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { MatCardModule } from '@angular/material/card'
     MatToolbarModule,
     MatSidenavModule,
     MatListModule,
-    MatCardModule
+    MatCardModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
