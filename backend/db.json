@@ -29,6 +29,11 @@
       "name": "Veio do form",
       "price": "9.99",
       "id": 6
+    },
+    {
+      "name": "lapis preto",
+      "price": "1.00",
+      "id": 7
     }
   ]
 }
