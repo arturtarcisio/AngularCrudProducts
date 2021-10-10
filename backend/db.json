@@ -6,11 +6,6 @@
       "price": 12
     },
     {
-      "id": 3,
-      "name": "Samsung S20",
-      "price": 5
-    },
-    {
       "name": "Iphone 13",
       "price": 20,
       "id": 4
@@ -19,6 +14,21 @@
       "name": "Veio do form",
       "price": "9.99",
       "id": 6
+    },
+    {
+      "name": "aaaa",
+      "price": "11.00",
+      "id": 7
+    },
+    {
+      "name": "11",
+      "price": "11.00",
+      "id": 8
+    },
+    {
+      "name": "aaaa",
+      "price": "1.000",
+      "id": 9
     }
   ]
 }
