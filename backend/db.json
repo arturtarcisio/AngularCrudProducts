@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BCI preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook MacBook Pro",
       "price": 12
@@ -21,27 +16,9 @@
       "id": 4
     },
     {
-      "name": "",
-      "price": 0,
-      "id": 5
-    },
-    {
       "name": "Veio do form",
       "price": "9.99",
       "id": 6
-    },
-    {
-      "name": "lapis preto",
-      "price": "1.00",
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "name": "cigarro de othonaaaaaaaaaaaaaa",
-      "price": "1.000",
-      "id": 9
     }
   ]
 }
